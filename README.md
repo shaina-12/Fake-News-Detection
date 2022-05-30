@@ -4,4 +4,4 @@
 ### Shaina Mehta
 ## Submitted To:
 ### Dr. Garima Agarwal
-## About the project:
+## About The Project:
