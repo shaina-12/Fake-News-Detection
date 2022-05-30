@@ -1,2 +1,7 @@
 # Fake-News-Detection
-nltk python schocastic-gradient-descent 
+### Authors:
+#### Anjali Gaur
+#### Shaina Mehta
+### Submitted To:
+#### Dr. Garima Agarwal
+## About the project:
